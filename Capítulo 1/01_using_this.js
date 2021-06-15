@@ -1,3 +1,4 @@
+// Página 08
 // Teste para uso de função com this
 
 function Point(x, y) {
